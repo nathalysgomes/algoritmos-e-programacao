@@ -12,6 +12,8 @@ Início
              escreva Voce pode estacionar na vaga!
                se nao se resposta for 3
                escreva Voce pode estacionar na vaga!
+                se nao se resposta for 4
+                escreva Voce nao pode estacionar na vaga!
       se nao escreva Por favor, digite 1, 2, 3 ou 4!   
 
 Fim
