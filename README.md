@@ -23,4 +23,4 @@ Fim
 
 --------------------------------------------------------
 
-![fluxograma](https://github.com/nathalysgomes/algoritmos-e-programacao/blob/main/exercicio_vaga.png)
+![fluxograma](https://github.com/nathalysgomes/algoritmos-e-programacao/blob/main/exercicio_vaga00.png)
